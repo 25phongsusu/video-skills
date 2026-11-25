@@ -1,0 +1,10 @@
+interface:
+  display_name: Modern Talking Head Editor
+  short_description: Centered glow text, voice-matched visuals and soft fades
+  default_prompt: Use $modern-talking-head-editor to edit this talking-head video
+    with centered Montserrat text, subtle glow, vertical fade-and-blur entrances,
+    and recognizable illustrations synchronized to spoken keywords.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
